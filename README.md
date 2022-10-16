@@ -1,11 +1,15 @@
 # Deface-Page-Make
-
 Vedio tutorial  in YouTube Channel
 
+## Installation 
 
-# Installation
+termux-setup-storage
 
-pkg update 
-pkg upgrade 
-pkg install git 
+apt-get update
+
+apt-get upgrade 
+
+pkg install git
+
 pkg install python
+
