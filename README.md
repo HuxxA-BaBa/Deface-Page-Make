@@ -15,3 +15,5 @@ pkg install python
 
 git clone https://github.com/HuxxA-BaBa/Deface-Page-Make
 
+cd Deface-Page-Make
+
